@@ -16,7 +16,7 @@ In such an attempt, BoomBikes aspires to understand the demand for shared bikes 
 - How well those variables describe the bike demands.
   
 **Objective:**
-Build a **model** for the demand of shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features.
+Build a **Linear Regression model** for the demand of shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features.
 
 ## The Approach
 1) Reading and Understanding the Data
