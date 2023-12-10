@@ -1,4 +1,6 @@
+
 # Bike Sharing Demand Case Study
+
 The purpose of this case study is to build a multiple linear regression model for the prediction of demand for shared bikes.
 
 ### Table of Contents
@@ -46,6 +48,5 @@ Build a **Linear Regression model** for the demand of shared bikes with the avai
 4. matplotlib
 5. sklearn
 6. statsmodels
-
-### Contact
+---
 Created by [Anupam Maiti](https://www.linkedin.com/in/anupam-maiti/) - feel free to contact me!
