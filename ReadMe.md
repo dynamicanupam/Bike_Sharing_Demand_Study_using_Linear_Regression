@@ -1,4 +1,4 @@
-## Bike Sharing Demand Case Study
+# Bike Sharing Demand Case Study
 The purpose of this case study is to build a multiple linear regression model for the prediction of demand for shared bikes.
 
 ### Table of Contents
@@ -6,8 +6,6 @@ The purpose of this case study is to build a multiple linear regression model fo
 * [Soluation Approach](#soluation-approach)
 * [Repository contents](#repository-contents)
 * [Python libraries](#python-libraries)
-* [Model Evaluation Summary](#model-evaluation-summary)
-* [Key Takeways](#key-takeways)
   
 ## Problem Statement
 A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state.
@@ -18,7 +16,7 @@ In such an attempt, BoomBikes aspires to understand the demand for shared bikes 
 - Which variables are significant in predicting the demand for shared bikes.
 - How well those variables describe the bike demands.
   
-**Objective**
+**Objective:**
 Build a **Linear Regression model** for the demand of shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features.
 
 ## Soluation Approach
@@ -49,17 +47,5 @@ Build a **Linear Regression model** for the demand of shared bikes with the avai
 5. sklearn
 6. statsmodels
 
-## Model Evaluation Summary 
-
-![image](https://github.com/dynamicanupam/Bike-Sharing-Demand-Case-Study/assets/61014822/9fbecad7-4514-4441-bd19-b60b34bd328c)
-
-## Key Takeways
-
-1. Temperature Impact: When it's hot, expect more bike demand. Action: Prepare for high demand in hot weather.
-2. Yearly Trend: Demand increases YoY. Action: Stay focused on business sustainability.
-3. September Spike: Demand rises around September. Action: Be ready to manage increased demands in September.
-4. Holiday Downturn: Demand decreases during holidays. Action: Promote offers or events to boost usage during holidays.
-5. Seasonal and Weather Impact: Decrease during spring and bad weather. Action: Prepare for higher demand later by servicing bikes and docks.
-
-## Contact
+### Contact
 Created by [Anupam Maiti](https://www.linkedin.com/in/anupam-maiti/) - feel free to contact me!
