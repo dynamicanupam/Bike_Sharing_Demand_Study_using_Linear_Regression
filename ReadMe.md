@@ -3,10 +3,10 @@ The purpose of this case study is to build a multiple linear regression model fo
 
 ### Table of Contents
 * [Problem Statement](#problem-statement)
-* [The Approach](#the-approach)
+* [Soluation Approach](#soluation-approach)
 * [Repository contents](#repository-contents)
 * [Python libraries](#python-libraries)
-* [Model Summary](#model-summary)
+* [Model Evaluation Summary](#model-evaluation-summary)
 * [Key Takeways](#key-takeways)
   
 ## Problem Statement
@@ -18,10 +18,10 @@ In such an attempt, BoomBikes aspires to understand the demand for shared bikes 
 - Which variables are significant in predicting the demand for shared bikes.
 - How well those variables describe the bike demands.
   
-**Objective:**
+**Objective**
 Build a **Linear Regression model** for the demand of shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features.
 
-## The Approach
+## Soluation Approach
 1) Reading and Understanding the Data
 2) Data manipulation and cleaning
 3) Visualising the Data
@@ -37,7 +37,7 @@ Build a **Linear Regression model** for the demand of shared bikes with the avai
 |:-----|:------------|
 | Python notebook | It contains the complete detailed code along with necessary output to solve the problem|
 | PDF | Answered the asked subjective questions. |
-| README.md | This file briefs about the project. |
+| ReadMe.md | This file briefs about the project. |
 | day.csv | The bike sharing case study data set. |
 | data_dictionary.txt | Meaning of the variables in the dataset. |
 
@@ -49,7 +49,7 @@ Build a **Linear Regression model** for the demand of shared bikes with the avai
 5. sklearn
 6. statsmodels
 
-## Model Summary 
+## Model Evaluation Summary 
 
 ![image](https://github.com/dynamicanupam/Bike-Sharing-Demand-Case-Study/assets/61014822/9fbecad7-4514-4441-bd19-b60b34bd328c)
 
