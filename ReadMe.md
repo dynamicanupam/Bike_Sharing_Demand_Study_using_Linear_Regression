@@ -50,32 +50,9 @@ Build a **Linear Regression model** for the demand of shared bikes with the avai
 6. statsmodels
 
 ## Model Summary 
-```
-                           OLS Regression Results                            
-==============================================================================
-Dep. Variable:                    cnt   R-squared:                       0.822
-Model:                            OLS   Adj. R-squared:                  0.819
-Method:                 Least Squares   F-statistic:                     289.4
-Date:                Sat, 09 Dec 2023   Prob (F-statistic):          2.26e-182
-Time:                        20:38:05   Log-Likelihood:                 478.75
-No. Observations:                 510   AIC:                            -939.5
-Df Residuals:                     501   BIC:                            -901.4
-Df Model:                           8                                         
-Covariance Type:            nonrobust                                         
-==================================================================================
-                     coef    std err          t      P>|t|      [0.025      0.975]
-----------------------------------------------------------------------------------
-const              0.3248      0.019     17.224      0.000       0.288       0.362
-yr                 0.2366      0.009     27.738      0.000       0.220       0.253
-holiday           -0.0907      0.027     -3.362      0.001      -0.144      -0.038
-temp               0.3445      0.024     14.181      0.000       0.297       0.392
-windspeed         -0.1475      0.026     -5.742      0.000      -0.198      -0.097
-sep                0.0689      0.016      4.289      0.000       0.037       0.100
-light_snowrain    -0.2803      0.026    -10.970      0.000      -0.330      -0.230
-misty             -0.0795      0.009     -8.761      0.000      -0.097      -0.062
-spring            -0.1513      0.013    -12.080      0.000      -0.176      -0.127
-==================================================================================
-```
+
+![image](https://github.com/dynamicanupam/Bike-Sharing-Demand-Case-Study/assets/61014822/9fbecad7-4514-4441-bd19-b60b34bd328c)
+
 ## Key Takeways
 
 1. Temperature Impact: When it's hot, expect more bike demand. Action: Prepare for high demand in hot weather.
