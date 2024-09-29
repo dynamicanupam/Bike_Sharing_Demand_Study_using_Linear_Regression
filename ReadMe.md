@@ -1,5 +1,7 @@
 
-# Bike Sharing Demand Case Study
+# Bike Sharing Demand Study using Linear Regression
+> Build a regression model to understand the factors on which the demand for bike sharing systems vary on and help a company optimise its revenue.
+---
 
 The purpose of this case study is to build a multiple linear regression model for the prediction of demand for shared bikes.
 
